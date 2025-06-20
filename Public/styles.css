@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .card-video {
+    overflow: hidden;
+    border-radius: .5rem;
+  }
+  .card-video video {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
